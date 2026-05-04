@@ -1,9 +1,0 @@
-ProductID,ProductName,Category,UnitPrice
-101,Laptop Pro,Electronics,1200.00
-102,Office Software,Software,299.99
-103,Cloud Storage,Software,49.99
-104,IT Consulting,Services,250.00
-105,External SSD,Hardware,89.99
-106,Video Software,Software,199.99
-107,Data Analytics,Services,500.00
-108,Wireless Mouse,Electronics,25.00
